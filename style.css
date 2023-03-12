@@ -1,0 +1,42 @@
+body{
+   
+    
+}
+span{
+    position: relative;
+    color: white;
+    top: 15px;
+    
+
+}
+.converter-body{
+    width: 400px;
+    background-color: navy;
+    height: 200px;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.converter-title{
+    color: white;
+    text-align: center;
+}
+#inputType{
+    width: 176px;
+    padding: 5px;
+}
+#input{
+    padding: 5px;
+    text-align: center;
+}
+#result{
+    padding: 5px;
+    text-align: center;
+}
+#resultType{
+    width: 176px;
+    padding: 5px;
+    margin-left: 13px;
+}
